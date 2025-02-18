@@ -1,0 +1,9 @@
+Q1: Why might we consider using Git?
+
+Answer:Git is useful because it helps manage and track changes in projects, especially when multiple people are working together.
+ It allows us to go back to previous versions of our work, preventing loss of data.
+ It’s a reliable and efficient tool for collaboration and maintaining organized project histories.
+
+
+
+
