@@ -7,3 +7,8 @@ Answer:Git is useful because it helps manage and track changes in projects, espe
 
 
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer:Data science can be applied to various fields such as healthcare, finance, marketing, sports, and more.
+
+For example, in healthcare, data science is used to analyze patient data and predict disease outbreaks, treatment outcomes, or identify patterns in patient conditions. This helps in improving patient care and decision-making in medical practices.
