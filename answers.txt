@@ -22,3 +22,15 @@ The difference between merging and rebasing lies in how they integrate changes f
 Merging: Combines the histories of two branches, creating a new "merge commit" that includes all changes from both branches. This preserves the full commit history and results in a non-linear history.
 
 Rebasing: Moves or "re-applies" commits from one branch onto another, rewriting the commit history to create a linear sequence of changes. It avoids the merge commit, making the history cleaner but potentially losing context of the original branch structure.
+
+
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: This semester, I’m looking forward to diving deeper into new topics and building more hands-on experience. 
+I’m excited about collaborating with classmates on projects, learning from professors, and tackling challenging assignments that will help me grow academically and professionally.
+
+
+
+
